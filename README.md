@@ -12,7 +12,6 @@
 
 ### Overview
 - [Overview](#overview)
-- [Demo](#demo)
 - [Features](#features)
 - [Setup](#setup)
 - [Getting ready](#getting-ready)
@@ -22,11 +21,6 @@
 - [Todo](#todo)
 - [Bugs or Opinion](#bugs-or-opinion)
 
-### Demo
-This is a brief demo of the functionality of the project
-<p align="center">
-<img src="https://user-images.githubusercontent.com/29748439/135058615-5fcea765-464e-4630-aa6c-093fabad2ed9.gif" alt="database schema" width="720"/>
-</p>
 
 ### Features
 - Django LTS
@@ -42,7 +36,7 @@ This is a brief demo of the functionality of the project
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
-git clone https://github.com/alibigdeli/Django-CBV-TodoApp
+git clone https://github.com/Reza-Rezvani/Django-CBV-TodoApp
 ```
 
 ### Getting ready
@@ -92,7 +86,7 @@ black -l 79 . && flake8
 ### Database schema
 A simple view of the project model schema.
 <p align="center">
-<img src="https://user-images.githubusercontent.com/29748439/134964183-595bd7cf-df01-4089-8d22-bfb765d62c18.png" alt="database schema" width="300"/>
+<img src="Screenshot 1402-11-11 at 17.02.57" alt="database schema" width="600"/>
 </p>
 
 ### Todo
