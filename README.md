@@ -3,7 +3,7 @@
 <h3 align="center">A simple todo app project with class based view for learning</h3>
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 </a>
@@ -86,7 +86,7 @@ black -l 79 . && flake8
 ### Database schema
 A simple view of the project model schema.
 <p align="center">
-<img src="Screenshot 1402-11-11 at 17.02.57" alt="database schema" width="600"/>
+<img src="https://user-images.githubusercontent.com/29748439/134964183-595bd7cf-df01-4089-8d22-bfb765d62c18.png" alt="database schema" width="300"/>
 </p>
 
 ### Todo
